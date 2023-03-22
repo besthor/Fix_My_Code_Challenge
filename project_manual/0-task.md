@@ -13,6 +13,6 @@ $
 15 should print FizzBuzz not Fizz
 
 # Repo:
-GitHub repository: Fix_My_Code_Challenge
-Directory: 0x00-challenge
-File: 0-fizzbuzz.py
+* GitHub repository: Fix_My_Code_Challenge
+* Directory: 0x00-challenge
+* File: 0-fizzbuzz.py
