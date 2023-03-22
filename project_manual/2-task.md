@@ -1,5 +1,5 @@
-2. Sort
-# advanced
+# 2. Sort
+## advanced
 Please find here my implementation of sorting arguments in Ruby: source code
 
 Something is going wrong….
