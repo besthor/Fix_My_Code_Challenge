@@ -1,11 +1,11 @@
-4. Double linked list
+## 4. Double linked list
 #advanced
 Please find here my implementation of a Double linked list in C: source code
 
 Something is going wrong….
 
 $ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 main.c free_dlistint.c print_dlistint.c add_dnodeint_end.c delete_dnodeint_at_index.c -o delete_dnodeint
-$ ./delete_dnodeint 
+<b>$ ./delete_dnodeint 
 0
 1
 2
@@ -65,12 +65,12 @@ $ ./delete_dnodeint
 -----------------
 -----------------
 -----------------
------------------
+-----------------</p>
 $
 It doesn’t look right…
 
-Repo:
+##Repo:
 
-GitHub repository: Fix_My_Code_Challenge
-Directory: 0x00-challenge
-File: 4-delete_dnodeint/
+* GitHub repository: Fix_My_Code_Challenge
+* Directory: 0x00-challenge
+* File: 4-delete_dnodeint/
