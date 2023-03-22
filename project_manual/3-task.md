@@ -1,5 +1,5 @@
-3. User password
-#advanced
+# 3. User password
+## advanced
 Please find here my implementation of a User class in Python: source code
 
 Something is going wrong….
@@ -10,8 +10,8 @@ is_valid_password should return True if it's the right password
 $
 My tests should not print any error…
 
-Repo:
+## Repo:
 
-GitHub repository: Fix_My_Code_Challenge
-Directory: 0x00-challenge
-File: 3-user.py
+* GitHub repository: Fix_My_Code_Challenge
+* Directory: 0x00-challenge
+* File: 3-user.py
