@@ -7,8 +7,8 @@ Something is going wrong….
 $ ./3-user.py 
 Test User
 is_valid_password should return True if it's the right password
-$
-My tests should not print any error…
+<p>$
+My tests should not print any error…</p>
 
 ## Repo:
 
