@@ -12,6 +12,10 @@ class Square:
     def __init__(self, width=0, height=0):
         """
         Initializes a square with the given width and height.
+        
+        Args:
+        - width: The width of the square.
+        - height: The height of the square.
         """
         self.width = width
         self.height = height
@@ -37,6 +41,9 @@ class Square:
     def __str__(self):
         """
         Returns a string representation of the square.
+        
+        Returns:
+        A string representation of the square in the format 'width/height'.
         """
         return "{}/{}".format(self.width, self.height)
 
